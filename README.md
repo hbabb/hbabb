@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-![Data Point Solutions Logo](./path-to-logo.png)
+![Data Point Solutions Logo](./OriginalLogo.svg)
 
 Hi there! I'm **Heath Babb**, a passionate web developer with a rich history in land survey CAD technology, technical project management, and a lifelong love of problem-solving. This blend of technical experience and creative enthusiasm drives me to craft reliable, user-friendly digital solutions.
 
@@ -68,5 +68,5 @@ Here’s what I bring to the table:
 
 ---
 
-*"Crafting digital experiences with precision and creativity."*
+*"Innovative Solutions in the Digital Frontier."*
 
