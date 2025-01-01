@@ -36,19 +36,27 @@ Feel free to contact me through my website's [contact form](https://heath-babb.t
 
 ## 🛠️ Preferred Tech Stack
 Here’s what I bring to the table:
-- **Frameworks:** Next.js (TypeScript), React (ShadCN/UI for rapid prototyping)
-- **Database:** Xata, Neon PostgreSQL
-- **ORM:** Drizzle ORM (preferred over Prisma)
-- **Data Display:** Tanstack Table
+- **Framework:** Next.js with TypeScript
+- **UI Components:** ShadCN (NextUI for rapid prototyping) & MagicUI or AceternityUI for 3D effects
+- **Database:** Xata or Neon PostgreSQL and MongoDB when needed (Prefer working with Postgre)
+- **ORM:** Drizzle ORM (prism if required)
+- **Data Display:** Tanstack Table with react tables from ShadCN
 - **Form Handling:** React-Hook-Form
-- **Validation:** Zod and/or Conform
-- **Environment Safety:** T3Env
-- **Authentication:** Clerk (preferred) or Kinde
+- **Validations:** Zod with Conform
+- **Environment Variables Safety:** T3Env
+- **Authentication:** Clerk, Kinde, or Auth.js
 - **Server Actions:** next-safe-action
 - **Error Tracking:** Sentry
-- **Linting/Formatting:** Biome (preferred) with Commitlint for Git hooks
+- **Linting/Formatting:** Biome (ESLint with Prettier when needed)
+- **Commit Linting:** Commitlint with custom Git Hooks
 - **CI/CD:** GitHub workflows
-- **Deployment:** Vercel (preferred), AWS, Hostinger, DigitalOcean, GCP
+- **Deployments:**
+    - Vercel
+    - AWS
+    - DigitalOcean
+    - Heroku
+    - Hostinger
+    - Google Cloud Platform
 
 ---
 
