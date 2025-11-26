@@ -1,80 +1,108 @@
-# 👋 Welcome to My GitHub Profile
+# Heath Babb
 
-![Data Point Solutions Logo](./OriginalLogo.svg)
+**20-year Land Surveyor & Civil Designer → Python-first DevOps Engineer**
 
-Hi there! I'm **Heath Babb**, a passionate web developer with a rich history in land survey CAD technology, technical project management, and a lifelong love of problem-solving. This blend of technical experience and creative enthusiasm drives me to craft reliable, user-friendly digital solutions.
+For two decades I set control points in the dirt, turned LiDAR point clouds into deliverables, and built automation that turned weeks of drafting into hours.  
+Now I’m doing the same thing in code — only the stakes are containers, pipelines, and production systems instead of property lines.
 
----
+I ship tools that solve real problems I’ve lived: precision, reliability, audit trails, and getting it right the first time.
 
-## 🚀 About Me
-- 🌱 I am transitioning into a full-time career in web development.
-- 💻 Proficient in modern technologies like **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Python**, and **database management** systems.
-- 🌐 Building dynamic websites and open-source projects, including:
-  - **Resume Portfolio Website** (HTML/CSS, now React + TailwindCSS)
-  - **Church Website** (React TypeScript with Strapi CMS)
-  - **Collaborative Resume Project** (custom backend with MongoDB and Express.js)
+<div align="center">
 
-I thrive in **team settings** and love contributing to **open-source initiatives**. Whether you’re here to collaborate, hire, or just explore my projects, you're in the right place!
+**Building Reliable Infrastructure | Automating Everything | Exploring Web3**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-heath--babb.dev-blue?style=for-the-badge&logo=google-chrome)](https://heath-babb.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heath--babb-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/heath-babb)
+[![GitHub](https://img.shields.io/badge/GitHub-hbabb-181717?style=for-the-badge&logo=github)](https://github.com/hbabb)
+[![X](https://img.shields.io/badge/X-@heath2420-1DA1F2?style=for-the-badge&logo=x)](https://x.com/techsolvd)
 
-## 🎯 Let's Collaborate!
-Looking for someone with a meticulous eye for detail and a hunger for innovation? I am open to:
-- **Full-time opportunities**
-- **Part-time projects**
-- **Freelance work**
-- **Open-source collaborations**
-
-Feel free to contact me through my website's [contact form](https://heath-babb.tech/contact) for inquiries, ideas, or just to say hello! 🤝
+</div>
 
 ---
 
-## 📂 My Portfolio
-🌟 Dive deeper into my journey at [heath-babb.tech](https://heath-babb.tech), where you’ll find a comprehensive history of my work, experience, and certifications. My site also showcases my resume, technical blog posts, and ongoing projects.
+## What I’m Shipping Right Now
+
+### Survey-Pro — Launching January 1, 2026
+
+The modern web replacement for every surveyor’s dusty calculator folder and Excel sheets.
+
+**MVP Features**
+
+- Curve / spiral / intersection solvers
+- Traverse adjustment & COGO
+- ALTA boundary tools
+- Unit & datum conversion
+- Export: CSV • DXF • LandXML
+
+**Stack**  
+FastAPI • React • TailwindCSS • PostgreSQL • Docker • GitHub Actions → Fly.io
+
+Built by a surveyor who’s actually used total stations in the rain.  
+Public repo + live demo dropping December 2025.
 
 ---
 
-## 🛠️ Preferred Tech Stack
-Here’s what I bring to the table:
-- **Framework:** Next.js with TypeScript
-- **UI Components:** ShadCN (NextUI for rapid prototyping) & MagicUI or AceternityUI for 3D effects
-- **Database:** Xata or Neon PostgreSQL and MongoDB when needed (Prefer working with Postgre)
-- **ORM:** Drizzle ORM (prism if required)
-- **Data Display:** Tanstack Table with react tables from ShadCN
-- **Form Handling:** React-Hook-Form
-- **Validations:** Zod with Conform
-- **Environment Variables Safety:** T3Env
-- **Authentication:** Clerk, Kinde, or Auth.js
-- **Server Actions:** next-safe-action
-- **Error Tracking:** Sentry
-- **Linting/Formatting:** Biome (ESLint with Prettier when needed)
-- **Commit Linting:** Commitlint with custom Git Hooks
-- **CI/CD:** GitHub workflows
-- **Deployments:**
-    - Vercel
-    - AWS
-    - DigitalOcean
-    - Heroku
-    - Hostinger
-    - Google Cloud Platform
+### Long-term Passion: AgBiz
+
+Regenerative agriculture platform — weather, commodities, farm records, and ML-driven soil & yield forecasting grounded in Biblical stewardship principles.  
+Same Python/FastAPI foundation — Survey-Pro is proving the stack first.
 
 ---
 
-## 🌟 Fun Facts
-- 📐 Before web development, I spent 20+ years mastering CAD systems and GIS tools.
-- 🖋️ I’ve built my personal site from scratch to showcase my skills—a living resume in itself!
-- 🎸 In my free time, I enjoy volunteering as a technical consultant for my church and exploring creative side projects.
+## DevOps in Action: My Resume Is a CI/CD Project
+
+Separate repo, fully automated:
+
+- Written in Markdown with LazyVim
+- Pandoc + custom templates in a Docker container
+- GitHub Actions builds perfect PDF & DOCX on every push
+- Zero manual formatting, ever
+
+→ Proof I treat even my own branding like production infrastructure.  
+[github.com/hbabb/resume-as-code](https://github.com/hbabb/resume-as-code)
 
 ---
 
-## 📬 Stay Connected
-- 🔗 [LinkedIn](https://linkedin.com/in/heath-babb)
-- 🐙 [GitHub](https://github.com/hbabb)
-- 🌐 [Portfolio Website](https://heath-babb.tech)
+## Tech Stack I Live In
 
-💡 Let’s create something amazing together. Explore, collaborate, and connect! ✨
+| Layer    | Tools I Use Daily                                  |
+| -------- | -------------------------------------------------- |
+| Backend  | Python • FastAPI • Pydantic • SQLModel • Alembic   |
+| Frontend | HTMX • TailwindCSS • Alpine.js • React             |
+| DevOps   | Docker • GitHub Actions • Bash • Arch Linux • Make |
+| Database | PostgreSQL • Redis • SQLite                        |
+| Editor   | LazyVim • zellij • ghostty                         |
+| Docs     | Markdown → Pandoc → PDF/DOCX                       |
 
 ---
 
-*"Innovative Solutions in the Digital Frontier."*
+## Learning & Certifications (2026–2027)
 
+- CompTIA A+ → Security+ (active)
+- Docker mastery → local Kubernetes (Kind/K3s)
+- Python security tooling & ethical hacking labs
+- Building reproducible, auditable pipelines
+
+---
+
+## What I Want Next (Remote First)
+
+Roles where I can:
+
+- Own Python backends and APIs
+- Build and secure CI/CD pipelines
+- Ship tools that make people’s jobs easier
+- Keep growing into DevSecOps and off-chain Web3 systems
+
+Open to hybrid or relocation with assistance.
+
+---
+
+## Let’s talk
+
+<hbabb@heath-babb.dev> • Happy to hop on a 15-minute call
+
+_“I spent 20 years making sure property lines were accurate to the hundredth of a foot.  
+Now I make sure containers start, secrets stay secret, and code ships without breaking the build.”_
+
+---
