@@ -16,7 +16,7 @@ I’m building from a domain I actually know.
 
 **Backend Development | Geospatial Tools | Survey Workflow Automation | DevOps-Aware Delivery**
 
-# [![Portfolio](https://img.shields.io/badge/Portfolio-heath--babb.dev-blue?style=for-the-badge&logo=google-chrome)](https://heath-babb.dev)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-heath--babb.dev-blue?style=for-the-badge&logo=google-chrome)](https://heath-babb.dev) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heath--babb-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/heath-babb)
 [![GitHub](https://img.shields.io/badge/GitHub-hbabb-181717?style=for-the-badge&logo=github)](https://github.com/hbabb)
 [![X](https://img.shields.io/badge/X-@techsolvd-000000?style=for-the-badge&logo=x)](https://x.com/techsolvd)
@@ -140,7 +140,7 @@ The point is doing the work consistently and turning it into practical software.
 ## Contact
 
 **Email:** <hbabb@heath-babb.com>  
-# **Portfolio:** [heath-babb.dev](https://heath-babb.dev)  
+<!-- **Portfolio:** [heath-babb.dev](https://heath-babb.dev) -->
 **LinkedIn:** [linkedin.com/in/heath-babb](https://linkedin.com/in/heath-babb)  
 **X:** [x.com/techsolvd](https://x.com/techsolvd)
 
